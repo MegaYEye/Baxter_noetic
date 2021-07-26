@@ -12,3 +12,6 @@ also, fix:
 ```
 OSError, e -> OSError as e
 ```
+
+## effort controller
+sudo apt-get install ros-noetic-effort-controllers
