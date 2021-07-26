@@ -26,3 +26,10 @@ git clone https://github.com/EmaroLab/baxter_simulator
 then directly do a catkin_make
 
 OPENCV: replace that "NOCHANGES" with -1
+
+quick test:
+First, set ROS_MASTER_URI, enable the robot, then
+```
+rosrun baxter_examples joint_position_keyboard.py
+
+```
