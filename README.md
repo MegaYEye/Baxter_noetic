@@ -15,3 +15,14 @@ OSError, e -> OSError as e
 
 ## effort controller
 sudo apt-get install ros-noetic-effort-controllers
+
+
+For SDK, use this:
+https://nu-msr.github.io/me495_site/lecture13_rethink.html
+
+For simulatior, replace the baxter_simulator with this:
+git clone https://github.com/EmaroLab/baxter_simulator
+
+then directly do a catkin_make
+
+OPENCV: replace that "NOCHANGES" with -1
