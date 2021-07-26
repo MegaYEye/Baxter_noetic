@@ -21,6 +21,10 @@ sudo apt-get install ros-noetic-effort-controllers
 
 For SDK, use this:
 https://nu-msr.github.io/me495_site/lecture13_rethink.html
+and also read:
+https://nu-msr.github.io/me495_site/lecture13_rethink.html#using-the-robots
+
+
 
 For simulatior, replace the baxter_simulator with this:
 git clone https://github.com/EmaroLab/baxter_simulator
