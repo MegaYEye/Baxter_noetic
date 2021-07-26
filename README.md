@@ -1,5 +1,7 @@
 # Baxter_noetic
 
+This is how to install. The code uploaded is wrong and may not be valid 
+
 ## Solve QT issue:
 ```
 sudo add-apt-repository ppa:rock-core/qt4
